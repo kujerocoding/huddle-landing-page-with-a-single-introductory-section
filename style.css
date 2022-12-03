@@ -29,7 +29,7 @@ body {
 }
 
 .main__container {
-    padding: 50px;
+    padding: 75px;
 }
 
 .hero__container img {
@@ -72,8 +72,8 @@ button {
 .icons {
     border: 3px solid white;
     border-radius: 50%;
-    width: 80px;
-    height: 80px;
+    width: 60px;
+    height: 60px;
     display: flex;
     justify-content: center;
     fill: white;
@@ -81,11 +81,11 @@ button {
 }
 
 .icon--fb {
-    width: 1.5em;
+    width: 1.2em;
 }
 
 .icon--twitter, .icon--instagram {
-    width: 2.5em;
+    width: 1.8em;
 }
 
 
