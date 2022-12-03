@@ -98,8 +98,8 @@ button:hover, button:focus {
 
 
 .icons:hover {       
-    fill: var(--SOFTMAGENTA);
-    border:1px solid var(--SOFTMAGENTA);
+    fill: magenta;
+    border:1px solid magenta;
 }
 
 @media (min-width: 50em) {
